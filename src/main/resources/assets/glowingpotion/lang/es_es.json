@@ -1,0 +1,10 @@
+{
+  "item.minecraft.potion.effect.glowing": "Poción de Luminiscencia",
+  "item.minecraft.potion.effect.long_glowing": "Poción de Luminiscencia",
+  "item.minecraft.splash_potion.effect.glowing": "Poción de Luminiscencia arrojadiza",
+  "item.minecraft.splash_potion.effect.long_glowing": "Poción de Luminiscencia arrojadiza",
+  "item.minecraft.lingering_potion.effect.glowing": "Poción de Luminiscencia persistente",
+  "item.minecraft.lingering_potion.effect.long_glowing": "Poción de Luminiscencia persistente",
+  "item.minecraft.tipped_arrow.effect.glowing": "Flecha de Luminiscencia",
+  "item.minecraft.tipped_arrow.effect.long_glowing": "Flecha de Luminiscencia"
+}

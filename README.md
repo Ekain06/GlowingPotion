@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Glowing Potion
 
-## Setup
+Really simple Minecraft mod which adds a Potion of Glowing brewed
+with a glow ink sac. Now glow squids are a bit more useful.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Curseforge:  
+Modrinth: 
